@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/yashmehta18/">
+  <a href="https://www.linkedin.com/in/yashmehta18/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/BATMAN28535944">
+  <a href="https://x.com/ymehta1882">
     <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social" alt="X Badge"/>
   </a>
 </div>
@@ -34,10 +34,11 @@ Hi there! 👋 I'm a passionate Machine Learning enthusiast eager to learn and g
 ⚡ In my free time, I enjoy:
    *  Reading books
    *  Learning Data Structures and Algorithms
-   *  Reading tech articles
-   *  Studying math
+   *  Reading Tech Articles
+   *  Studying Math
+   *  Learning Finance
 
-📫 You can reach me through:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yashmehta18)
+📫 You can reach me through:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashmehta18/)
 
 ---
 
@@ -55,4 +56,5 @@ Hi there! 👋 I'm a passionate Machine Learning enthusiast eager to learn and g
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
